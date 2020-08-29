@@ -1,0 +1,11 @@
+.navi{
+    background-color:#ee8405;
+}
+.second{
+    margin-top: 60px;
+    background-image: url("./images/foo.jpg");
+    margin-bottom: 0px;
+  }
+#dropdown-basic{
+    size:80em;
+}

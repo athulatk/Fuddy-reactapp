@@ -1,3 +1,8 @@
+![](https://github.com/athulatk/Fuddy-reactapp/blob/master/fuddy1.JPG)
+![](https://github.com/athulatk/Fuddy-reactapp/blob/master/fuddy2.JPG)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
